@@ -1,0 +1,14 @@
+# Secret files
+.secret_key
+.env
+
+# Virtual environment
+venv/
+petpulse_web/venv/
+
+# Temporary files
+tempCodeRunnerFile*
+
+# Python cache
+__pycache__/
+*.pyc
