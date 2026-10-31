@@ -1,0 +1,20 @@
+
+# Python virtual environment
+venv/
+.venv/
+
+# Secret keys and environment variables
+.secret_key
+**/.secret_key
+.env
+.env.*
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Temporary Code Runner files
+tempCodeRunnerFile*
+
+# Editor files
+.vscode/
